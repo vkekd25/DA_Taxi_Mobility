@@ -1,9 +1,9 @@
 # Jinmobility_DA
 
 
-## ML 기업 프로젝트
+## DA 기업 프로젝트
 <br>
-- ML 팀프로젝트입니다. 
+- 데이터분석 및 Tableau 기업 프로젝트입니다. 
 
 
 ## Team_ML_Resell_Recommandation
