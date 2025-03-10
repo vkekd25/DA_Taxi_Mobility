@@ -22,10 +22,12 @@
 
 [Tableau 시각화 결과]
 
-<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/fbddce2a-902b-4af4-9555-26a67403b8ef" />
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/fbddce2a-902b-4af4-9555-26a67403b8ef" />
+
 **행정구역(서울, 인천등) 택시 호출, 매출액, 고객수등**
 
-<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/b957bd05-581f-4468-9765-9e1cca0c2c89" />
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/b957bd05-581f-4468-9765-9e1cca0c2c89" />
+
 **공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
 
 
