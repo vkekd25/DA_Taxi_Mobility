@@ -31,16 +31,15 @@
 **공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
 
 
-[데이터 분석 결과]
-
 
 
 
 - **References**
-  - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
-  - [Dead Frog. https://www.dead-frog.com/.](https://trackmanuniversity.com/Home)
+  - https://fastcampus.co.kr/data_online_global3
+  - Let's 태블로, 쉽게 따라하는 데이터 시각화
+  - https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
   - https://airflow.apache.org/docs/
-  - https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html
+  - https://cloud.google.com/bigquery/docs?hl=ko
 
      
 <br><br>
