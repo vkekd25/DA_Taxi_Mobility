@@ -1,7 +1,5 @@
-# Data Analytics & Tableau Dashboard for Mobility
+## Data Analytics & Tableau Dashboard for Mobility
 
-
-## DA 기업 프로젝트
 <br>
 - 데이터분석 및 Tableau 대시보드 모빌리티 기업 프로젝트입니다. 
 
