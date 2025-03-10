@@ -8,42 +8,31 @@
 <br>
 
 - **프로젝트 주제**
-  - 스크린 골프 데이터를 기반으로 ML을 활용하여 소비자들에게 맞춤형 분석을 제공하고, 스코어링 및 클럽 매칭을 추천하는 골프 피팅 서비스
+  - 각 부서에 최적화된 대시보드를 구성하여 데이터 기반 의사결정 지원, 데이터 분석으로 업무 효율성과 성과 증대
+
 
 - **프로젝트 개요**
-  -	사용자 스윙 유형별/골프 클럽별 휴먼/로봇 테스트 분석
-  -	ML 결과기반 골프 피팅 스코어링 서비스 개발
-  -	AI 골프 클럽매칭 추천 시스템 개발
-  -	ML-Ops 시스템 구축 : 학습용 데이터 파이프라인 구축
+  -	Tableau를 활용한 실시간 데이터 시각화 및 KPI 모니터링 대시보드 설계
+  -	다양한 부서에 데이터 분석 및 시각화 결과 제공, 의사결정 지원
+  -	데이터 파이프라인 설계 및 관리: ETL 프로세스 및 자동화 구현
+  -	AI 기반 분석 결과를 활용한 비즈니스 성과 개선(KPI 증대 지원)
 
 
 - **프로젝트 결과**
 
-[서비스 결과]
+[Tableau 시각화 결과]
 
-<img width="621" alt="스크린샷 2025-03-07 오전 7 16 23" src="https://github.com/user-attachments/assets/0eb41017-1aa5-403f-87cb-b743e20af248" />
-<img width="621" alt="스크린샷 2025-03-07 오전 7 17 13" src="https://github.com/user-attachments/assets/a53f5ae0-bc3e-400f-b7bc-f93b67a61de5" />
-<img width="621" alt="스크린샷 2025-03-07 오전 7 28 48" src="https://github.com/user-attachments/assets/c0098d09-674d-4a35-900e-b5a4539b1732" />
+<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/fbddce2a-902b-4af4-9555-26a67403b8ef" />
+**행정구역(서울, 인천등) 택시 호출, 매출액, 고객수등**
+
+<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/b957bd05-581f-4468-9765-9e1cca0c2c89" />
+**공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
+
 
 [데이터 분석 결과]
 
-**스크린골프 장비 상관관계**
-
-<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
 
 
-**유저샷분석**
-
-<img width="621" alt="스크린샷 2025-03-08 오후 5 13 23" src="https://github.com/user-attachments/assets/4fb4e2bf-7b49-4b41-b5ff-dd4137bce03c" />
-
-**골프스윙유형 분석**
-
-<img width="621" alt="스크린샷 2025-03-08 오후 5 12 47" src="https://github.com/user-attachments/assets/11b6934e-46e9-4c7e-877c-a1a7a3f9511d" />
-
-
-[ML 결과]
-
-<img width="621" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
 
 - **References**
   - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
