@@ -20,7 +20,7 @@
 
 - **프로젝트 결과**
 
-[Tableau 시각화 결과]
+[Tableau]
 
 <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/fbddce2a-902b-4af4-9555-26a67403b8ef" />
 
@@ -30,9 +30,14 @@
 
 **공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
 
+[데이터 분석 결과]
 
 
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/b8eff8b8-57b8-4db0-a0ad-56b85d7ebce0/448a7e74-dbe2-4d76-987b-67c5707003c3/Untitled.png" />
 
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/b8eff8b8-57b8-4db0-a0ad-56b85d7ebce0/2814475e-e99e-48da-bfb3-046a5047df9c/Untitled.png" />
+
+**공항분석**
 
 - **References**
   - https://fastcampus.co.kr/data_online_global3
