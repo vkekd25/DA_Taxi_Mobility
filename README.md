@@ -32,8 +32,11 @@
 
 <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/71824857-964f-47ce-b5ef-7da8ff994fca" />
 
-
 **KPI지표(임의로 모자이크)**
+
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/657eed8c-6ec0-490b-adf4-fac07d4dcfa0" />
+
+**이벤트관리**
 
 [데이터 분석 결과]
 
