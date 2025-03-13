@@ -30,7 +30,8 @@
 
 **공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
 
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/63316610-9ec3-461b-aca9-0ae6d3aba495" />
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/71824857-964f-47ce-b5ef-7da8ff994fca" />
+
 
 **KPI지표(임의로 모자이크)**
 
