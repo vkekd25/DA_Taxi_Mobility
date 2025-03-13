@@ -35,7 +35,7 @@
 
 **공항구역(김포, 인천) 택시 호출, 매출액, 고객수등**
 
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/657eed8c-6ec0-490b-adf4-fac07d4dcfa0" />
+<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/657eed8c-6ec0-490b-adf4-fac07d4dcfa0" />
 <img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7d0e4e27-98ad-4470-9e63-4ee4b7fc8851" />
 
 **이벤트 관리**
