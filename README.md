@@ -30,7 +30,8 @@
 **실적 관리**
 
 <img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/71824857-964f-47ce-b5ef-7da8ff994fca" />
-KPI지표등
+<br>
+KPI지표 대시보드등등
 
 **마케팅 관리**
 
