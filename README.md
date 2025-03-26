@@ -46,7 +46,7 @@ KPI지표 대시보드등등
 
 **이벤트 관리**
 
-<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" />
+<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" />
 
 
 
