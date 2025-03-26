@@ -1,5 +1,3 @@
-## Data Analytics & Tableau Dashboard for Mobility
-
 <br>
 - 택시 모빌리티 기업 데이터분석 및 Tableau 대시보드 자료입니다.
 
