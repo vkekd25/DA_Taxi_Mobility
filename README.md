@@ -19,40 +19,37 @@
 
 - **프로젝트 결과**
 
-  #### 데이터 분석
-
-  데이터분석 파일 참고
-
-
-
-#### Tableau
-
-**실적 관리**
-
-<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/a5a476e0-76fc-4b7e-8049-d98862e705d9" />
-<br>
-
-**마케팅 관리**
-
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/864de859-9f24-432a-9577-01a47e12eed8" />
-<br>
-
-**기사 관리**
-
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/94ceb5fc-c01c-4632-9566-4f1621c34863" />
-<br>
-
-**이벤트 관리**
-
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" />
+    #### 데이터 분석
+  
+    데이터분석 파일 참고
 
 
-- **References**
-  - https://fastcampus.co.kr/data_online_global3
-  - Let's 태블로, 쉽게 따라하는 데이터 시각화
-  - https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
-  - https://airflow.apache.org/docs/
-  - https://cloud.google.com/bigquery/docs?hl=ko
+
+    #### Tableau
+    
+    **실적 관리**
+    
+    <img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/a5a476e0-76fc-4b7e-8049-d98862e705d9" /> <br>
+    
+    **마케팅 관리**
+    
+    <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/864de859-9f24-432a-9577-01a47e12eed8" /> <br>
+    
+    **기사 관리**
+    
+    <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/94ceb5fc-c01c-4632-9566-4f1621c34863" /> <br>
+    
+    **이벤트 관리**
+    
+    <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" /> <br>
+    
+    
+    - **References**
+      - https://fastcampus.co.kr/data_online_global3
+      - Let's 태블로, 쉽게 따라하는 데이터 시각화
+      - https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
+      - https://airflow.apache.org/docs/
+      - https://cloud.google.com/bigquery/docs?hl=ko
 
      
 <br><br>
