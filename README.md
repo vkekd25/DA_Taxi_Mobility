@@ -44,12 +44,12 @@
     <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" /> <br>
     
     
-    - **References**
-      - https://fastcampus.co.kr/data_online_global3
-      - Let's 태블로, 쉽게 따라하는 데이터 시각화
-      - https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
-      - https://airflow.apache.org/docs/
-      - https://cloud.google.com/bigquery/docs?hl=ko
+- **References**
+  - https://fastcampus.co.kr/data_online_global3
+  - Let's 태블로, 쉽게 따라하는 데이터 시각화
+  - https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
+  - https://airflow.apache.org/docs/
+  - https://cloud.google.com/bigquery/docs?hl=ko
 
      
 <br><br>
