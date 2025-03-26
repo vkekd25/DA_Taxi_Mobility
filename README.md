@@ -32,7 +32,7 @@
 
 <img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/71824857-964f-47ce-b5ef-7da8ff994fca" />
 
-****실적지표****
+**실적지표**
 
 <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/fbddce2a-902b-4af4-9555-26a67403b8ef" />
 
