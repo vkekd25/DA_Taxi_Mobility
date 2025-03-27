@@ -82,7 +82,8 @@
       **이벤트 관리**
       
       <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/5548d388-145a-4f11-bea7-326cc0e3b700" /> <br>
-    
+
+      추가 및 상세 자료는 데이터 분석 파일 참고
     
 - **References**
   - https://fastcampus.co.kr/data_online_global3
