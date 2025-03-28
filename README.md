@@ -64,7 +64,7 @@
     - #### Tableau
   
     
-      **실적 관리**
+      **사업 관리**
       
       <img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/a5a476e0-76fc-4b7e-8049-d98862e705d9" /> <br>
   
